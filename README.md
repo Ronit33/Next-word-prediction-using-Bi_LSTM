@@ -4,4 +4,4 @@
 
 dataset---> Trained on medium articles dataset---> https://www.kaggle.com/datasets/dorianlazar/medium-articles-dataset
 
-## Sensible prediction of sentence as made!
+## Sensible prediction of sentence was made!
